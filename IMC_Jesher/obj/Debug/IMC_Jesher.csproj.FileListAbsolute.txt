@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\Jesher\DS\13.09.2021\IMC_Jesher\IMC_Jesher\bin\Debug\IMC_Jesher.exe.config
+C:\Users\Aluno\Desktop\Jesher\DS\13.09.2021\IMC_Jesher\IMC_Jesher\bin\Debug\IMC_Jesher.exe
+C:\Users\Aluno\Desktop\Jesher\DS\13.09.2021\IMC_Jesher\IMC_Jesher\bin\Debug\IMC_Jesher.pdb
+C:\Users\Aluno\Desktop\Jesher\DS\13.09.2021\IMC_Jesher\IMC_Jesher\obj\Debug\IMC_Jesher.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Jesher\DS\13.09.2021\IMC_Jesher\IMC_Jesher\obj\Debug\IMC_Jesher.frm_imc.resources
+C:\Users\Aluno\Desktop\Jesher\DS\13.09.2021\IMC_Jesher\IMC_Jesher\obj\Debug\IMC_Jesher.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Jesher\DS\13.09.2021\IMC_Jesher\IMC_Jesher\obj\Debug\IMC_Jesher.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Jesher\DS\13.09.2021\IMC_Jesher\IMC_Jesher\obj\Debug\IMC_Jesher.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Jesher\DS\13.09.2021\IMC_Jesher\IMC_Jesher\obj\Debug\IMC_Jesher.exe
+C:\Users\Aluno\Desktop\Jesher\DS\13.09.2021\IMC_Jesher\IMC_Jesher\obj\Debug\IMC_Jesher.pdb
